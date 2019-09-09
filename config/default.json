@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://dbuserRW:blueHost16589@cluster0-hw4bf.mongodb.net/Market_ER?retryWrites=true&w=majority"
+}
